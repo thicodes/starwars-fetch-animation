@@ -1,5 +1,5 @@
 # Swapi React Query
-https://swapi-react-query.thiagoleite.now.sh/
+https://starwars-fetch-animation.now.sh
 
 Background Animation:
 https://github.com/thicodes/starwars-fetch-animation/blob/master/src/components/BackgroundStars.tsx#L22
